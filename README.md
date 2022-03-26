@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# lucky-one
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Private Repo Link]\
+Click here to create private repo: (https://github.com/facebook/create-react-app)
 
 ## Available Scripts
 

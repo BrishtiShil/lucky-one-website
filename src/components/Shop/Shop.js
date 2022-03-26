@@ -30,7 +30,6 @@ const Shop = () => {
                 }
             </div>
             <div className='cart-container'>
-                <h2>Order Summary</h2>
                 <p>Selected Items: </p>
                 {
                     cart.map((item) => (<h3 key={item.id}>{item.name}</h3>))
