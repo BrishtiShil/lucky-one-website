@@ -9,3 +9,20 @@
     margin-bottom: 2px;
     margin: 85px 60px;
 }
+.cart-container{
+    background-color: bisque;
+    position: sticky;
+    top: 0;
+}
+@media screen and (max-width:480px) {
+    .products-container{
+        grid-template-columns:  1fr;
+    }
+}
+/* @media (mix-width:1100px) and (min-width:480px){
+    .products-container{
+        grid-template-columns: repeat(3,1fr);
+    }
+} */
+
+
