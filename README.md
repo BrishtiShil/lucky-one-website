@@ -1,7 +1,7 @@
 # lucky-one
 
 [Private Repo Link]\
-Click here to create private repo: (https://github.com/facebook/create-react-app)
+Click here to create private repo: (https://gun-selected.netlify.app/Private Repo Link)
 
 ## Available Scripts
 
