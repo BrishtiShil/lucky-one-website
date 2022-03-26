@@ -4,7 +4,10 @@ import './Cart.css'
 const Cart = ({ cart }) => {
     return (
         <div className='cart'>
-            <p>Selected Items: {cart}</p>
+            <h2>Selected Items: </h2>
+            {
+                cart.map((item) => (<h3 key={item.id}>{item.name}</h3>))
+            }
         </div>
     );
 };

@@ -11,8 +11,6 @@
 }
 .cart-container{
     background-color: bisque;
-    position: sticky;
-    top: 0;
 }
 @media screen and (max-width:480px) {
     .products-container{
